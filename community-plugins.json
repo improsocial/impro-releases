@@ -5,5 +5,12 @@
     "author": "kindgracekind",
     "description": "Mute an account exclusively in feeds",
     "repo": "kindgracekind/mute-in-feeds"
+  },
+  {
+    "id": "custom-styles",
+    "name": "Custom styles",
+    "author": "kindgracekind",
+    "description": "Custom styles",
+    "repo": "kindgracekind/impro-plugin-custom-styles"
   }
 ]
