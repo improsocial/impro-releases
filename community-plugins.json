@@ -12,5 +12,12 @@
     "author": "kindgracekind",
     "description": "Custom styles",
     "repo": "kindgracekind/impro-plugin-custom-styles"
+  },
+  {
+    "id": "also-liked",
+    "name": "Also Liked",
+    "author": "kindgracekind",
+    "description": "Shows posts also liked by the people who liked the post you're viewing.",
+    "repo": "kindgracekind/impro-plugin-also-liked"
   }
 ]
