@@ -19,5 +19,12 @@
     "author": "kindgracekind",
     "description": "Shows posts also liked by the people who liked the post you're viewing.",
     "repo": "kindgracekind/impro-plugin-also-liked"
+  },
+  {
+    "id": "post-signatures",
+    "name": "Post Signatures",
+    "author": "kindgracekind",
+    "description": "Add a custom signature to the end of every post.",
+    "repo": "kindgracekind/impro-plugin-also-liked"
   }
 ]
