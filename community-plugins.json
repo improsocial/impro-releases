@@ -26,5 +26,12 @@
     "author": "kindgracekind",
     "description": "Add a custom signature to the end of every post.",
     "repo": "kindgracekind/impro-plugin-post-signatures"
+  },
+  {
+    "id": "open-in-pdsls",
+    "name": "Open in PDSls",
+    "author": "Jython1415",
+    "description": "Open a post or profile's raw atproto record in PDSls.",
+    "repo": "Jython1415/impro-plugin-open-in-pdsls"
   }
 ]
