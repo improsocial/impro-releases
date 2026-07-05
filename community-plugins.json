@@ -33,5 +33,12 @@
     "author": "Jython1415",
     "description": "Open a post or profile's raw atproto record in PDSls.",
     "repo": "Jython1415/impro-plugin-open-in-pdsls"
+  },
+  {
+    "id": "hide-popular-posts",
+    "name": "Hide Popular Posts",
+    "author": "Jython1415",
+    "description": "Hide posts at or above a configurable like count (default 1000) from your feeds.",
+    "repo": "Jython1415/impro-plugin-hide-popular-posts"
   }
 ]
