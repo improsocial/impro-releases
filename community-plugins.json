@@ -40,5 +40,12 @@
     "author": "Jython1415",
     "description": "Hide posts at or above a configurable like count (default 1000) from your feeds.",
     "repo": "Jython1415/impro-plugin-hide-popular-posts"
+  },
+  {
+    "id": "syntax-highlighting",
+    "name": "Syntax Highlighting",
+    "author": "kindgracekind",
+    "description": "Renders Markdown-style inline code and fenced code blocks in posts",
+    "repo": "kindgracekind/impro-plugin-syntax-highlighting"
   }
 ]
