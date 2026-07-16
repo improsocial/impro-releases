@@ -47,5 +47,12 @@
     "author": "kindgracekind",
     "description": "Renders Markdown-style inline code and fenced code blocks in posts",
     "repo": "kindgracekind/impro-plugin-syntax-highlighting"
+  },
+  {
+    "id": "bluemoji",
+    "name": "Bluemoji",
+    "author": "kindgracekind",
+    "description": "Renders Bluemoji custom emoji in posts 🦋",
+    "repo": "kindgracekind/impro-plugin-bluemoji"
   }
 ]
