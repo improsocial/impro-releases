@@ -54,5 +54,12 @@
     "author": "kindgracekind",
     "description": "Renders Bluemoji custom emoji in posts 🦋",
     "repo": "kindgracekind/impro-plugin-bluemoji"
+  },
+  {
+    "id": "profile-moderation-tools",
+    "name": "Profile & Moderation Tools",
+    "author": "7778777.online",
+    "description": "Adds a relationship info card to profiles/posts (follow status + mutual followers) and combined \"show fewer + mute/block\" actions to the post menu.",
+    "repo": "tangled:7778777.online/profile-moderation-tools"
   }
 ]
