@@ -68,5 +68,12 @@
     "author": "Seanan Riley",
     "description": "Full LaTeX math rendering with KaTeX — $...$ for inline, $$...$$ for display",
     "repo": "imseananriley/impro-latex-plugin"
+  },
+  {
+    "id": "tags",
+    "name": "Tags",
+    "author": "7778777.online",
+    "description": "Privately tag accounts and see your tags next to them. Tags are stored in your account's private plugin settings — synced across your devices, visible only to you.",
+    "repo": "tangled:7778777.online/tags"
   }
 ]
