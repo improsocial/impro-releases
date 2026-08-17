@@ -75,5 +75,19 @@
     "author": "7778777.online",
     "description": "Privately tag accounts and see your tags next to them. Tags are stored in your account's private plugin settings — synced across your devices, visible only to you.",
     "repo": "tangled:7778777.online/tags"
+  },
+  {
+    "id": "cashtags",
+    "name": "Cashtags",
+    "author": "7778777.online",
+    "description": "Hover over a $TAG in any post (e.g. $AAPL) to see a stock quote and intraday chart. Click a cashtag for a detail view with more time ranges. Quotes are sourced from Yahoo Finance via the cashtagsapi proxy and cached on-device.",
+    "repo": "tangled:7778777.online/cashtags"
+  },
+  {
+    "id": "local-translate",
+    "name": "Local Translate",
+    "author": "7778777.online",
+    "description": "Translate posts on-device using the same WASM engine (bergamot/browsermt) Firefox's own Translations feature uses, with an optional LLM-endpoint (Ollama / OpenAI-compatible / Anthropic) fallback.",
+    "repo": "tangled:7778777.online/impro-local-translate"
   }
 ]
