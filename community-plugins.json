@@ -91,7 +91,7 @@
     "repo": "tangled:7778777.online/impro-local-translate"
   },
   {
-    "id": "timed-mutes",
+    "id": "impro-plugin-timed-mutes",
     "name": "Timed Mutes",
     "author": "kindgracekind",
     "description": "Mute an account for a set amount of time instead of forever.",
