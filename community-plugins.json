@@ -89,5 +89,12 @@
     "author": "7778777.online",
     "description": "Translate posts on-device using the same WASM engine (bergamot/browsermt) Firefox's own Translations feature uses, with an optional LLM-endpoint (Ollama / OpenAI-compatible / Anthropic) fallback.",
     "repo": "tangled:7778777.online/impro-local-translate"
+  },
+  {
+    "id": "timed-mutes",
+    "name": "Timed Mutes",
+    "author": "kindgracekind",
+    "description": "Mute an account for a set amount of time instead of forever.",
+    "repo": "kindgracekind/impro-plugin-timed-mutes"
   }
 ]
