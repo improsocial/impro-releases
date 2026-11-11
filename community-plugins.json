@@ -96,5 +96,12 @@
     "author": "kindgracekind",
     "description": "Mute an account for a set amount of time instead of forever.",
     "repo": "kindgracekind/impro-plugin-timed-mutes"
+  },
+  {
+    "id": "who-is",
+    "name": "Who Is",
+    "author": "7778777.online",
+    "description": "Find an account from a description like \"guy whose pfp is wearing a hat and who posts about bicycles\". Your own LLM endpoint (Ollama / OpenAI-compatible) plans searches, checks profile pictures with vision, and ranks candidates.",
+    "repo": "tangled:7778777.online/impro-who-is"
   }
 ]
